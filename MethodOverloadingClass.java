@@ -7,7 +7,7 @@ package methodoverloadingclass;
 
 /**
  *
- * @author iibrahimbuba
+ * @author KayodeOluseyiR
  */
 public class MethodOverloadingClass {
 
